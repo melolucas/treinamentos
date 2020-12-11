@@ -3,9 +3,15 @@
     <?=validation_errors('<div class="alert alert-danger">', '</div>'); ?>
     <?=($this->session->flashdata('message')) ? $this->session->flashdata('message') : '' ?>        
 </div>
+<<<<<<< HEAD
 <div class="block" style="margin-top: 1%;">  
     <div class="navbar block-inner block-header" style="margin-right: 1%;">
         <div class="row" >
+=======
+<div class="block" style="margin-top: 1%">  
+    <div class="navbar block-inner block-header" style="margin-right: 1%;">
+        <div class="row">
+>>>>>>> fdcc854db2d379efa88037d01bf85366bf4721e2
             <ul class="nav nav-pills">
                 <li><p class="text-muted">Lista de usuários </p></li>
                 <li class=" pull-right"><a href="#inactive" data-toggle="pill">Inativo</a></li>
