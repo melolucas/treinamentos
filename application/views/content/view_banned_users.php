@@ -4,7 +4,7 @@
     <?=($this->session->flashdata('message')) ? $this->session->flashdata('message') : '' ?>        
 </div>
 <div class="block" style="margin-top: 1%">  
-    <div class="navbar block-inner block-header">
+    <div class="navbar block-inner block-header" style="margin-right: 1%;">
         <div class="row">
             <ul class="nav nav-pills">
                 <li><p class="text-muted">Lista de usuários </p></li>
