@@ -73,7 +73,7 @@
                         $i++;                       
                     }
                     if ($j == 0) {
-                        echo '<tr><td colspan="5"><h4>  Trash is empty!</h4> <td></tr>';
+                        echo '<tr><td colspan="5"><h4>  A lixeira está vazia.</h4> <td></tr>';
                     }
                     ?>
                    </tbody>
@@ -123,7 +123,7 @@
                         $i++;                       
                     }
                     if ($j == 0) {
-                        echo '<tr><td colspan="5"><h4>  No Spam.</h4> <td></tr>';
+                        echo '<tr><td colspan="5"><h4>  Nenhum spam.</h4> <td></tr>';
                     }
                     ?>
                    </tbody>
@@ -220,7 +220,7 @@
                         $i++;                       
                     }
                     if ($j == 0) {
-                        echo '<tr><td colspan="5"><h4> Send directory is empty.</h4><td></tr>';
+                        echo '<tr><td colspan="5"><h4> Você não tem mensagens enviadas.</h4><td></tr>';
                     }
                    ?>
                    </tbody>

@@ -225,25 +225,25 @@ $str .= "]";
                     <div class="tab-pane active" id="tab_1">
                         <?=form_open_multipart(base_url('index.php/admin/system_control/view_settings'), 'role="form" class="form-horizontal"'); ?>
                         <div class="form-group">
-                            <label for="brand_name" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Brand Name:</label>
+                            <label for="brand_name" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Nome:</label>
                             <div class="col-sm-8 col-xs-7 col-mb">
                                 <?=form_input('brand_name', $sys_set->brand_name, 'placeholder="Brand Name" class="form-control" required="required"') ?>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="brand_tagline" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Brand Tagline:</label>
+                            <label for="brand_tagline" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Tagline:</label>
                             <div class="col-sm-8 col-xs-7 col-mb">
                                 <?=form_input('brand_tagline', $sys_set->brand_tagline, 'placeholder="Brand Tagline" class="form-control"') ?>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="address" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Address:</label>
+                            <label for="address" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Endereço:</label>
                             <div class="col-sm-8 col-xs-7 col-mb">
                                 <?=form_input('address', $sys_set->address, 'placeholder="Address" class="form-control"') ?>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="local_time_zone" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Timezone:</label>
+                            <label for="local_time_zone" class="col-sm-offset-0 col-lg-2 col-xs-offset-1 col-xs-3 control-label mobile">Fuso horário:</label>
                             <div class="col-sm-8 col-xs-7 col-mb">
                                 <select name="local_time_zone" class="form-control" required="required">
                                     <option value=''>Select Timezone</option>
