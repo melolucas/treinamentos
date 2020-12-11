@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-05 02:17:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 02:17:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 04:45:35 --> 404 Page Not Found: TP/public
+ERROR - 2019-10-05 04:45:36 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-10-05 04:45:37 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-10-05 04:45:38 --> 404 Page Not Found: Html/public
+ERROR - 2019-10-05 04:45:39 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 04:45:40 --> 404 Page Not Found: TP/html
+ERROR - 2019-10-05 04:45:44 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-10-05 07:26:32 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 07:36:53 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 10:33:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 12:07:49 --> 404 Page Not Found: TP/public
+ERROR - 2019-10-05 12:07:49 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-10-05 12:07:53 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-10-05 12:07:54 --> 404 Page Not Found: Html/public
+ERROR - 2019-10-05 12:07:55 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 12:07:55 --> 404 Page Not Found: TP/html
+ERROR - 2019-10-05 12:07:56 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-10-05 15:09:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 15:27:04 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 15:45:07 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 16:06:53 --> 404 Page Not Found: TP/public
+ERROR - 2019-10-05 16:06:54 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-10-05 16:06:55 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-10-05 16:06:55 --> 404 Page Not Found: Html/public
+ERROR - 2019-10-05 16:06:56 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 16:06:57 --> 404 Page Not Found: TP/html
+ERROR - 2019-10-05 16:06:58 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-10-05 17:33:35 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 18:56:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 20:40:47 --> 404 Page Not Found: Manager/text
+ERROR - 2019-10-05 21:34:10 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 22:35:40 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-10-05 23:24:20 --> 404 Page Not Found: Public/index.php

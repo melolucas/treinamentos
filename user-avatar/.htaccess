@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^vendaonline\.redemaxxi\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.vendaonline\.redemaxxi\.com\.br$
+RewriteRule ^/?$ "https\:\/\/sites\.google\.com\/view\/vendaonlinemaxxi\/" [R=301,L]
+
